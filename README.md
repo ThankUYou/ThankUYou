@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ThankUYou&theme=transparent&show_icons=true&hide_border=true" />
-<img align="center" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=ThankUYou&theme=github-compact&hide_border=true&area=true" />
+<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=ThankUYou&theme=transparent&show_icons=true&hide_border=true" />
+<img align="center" width="300" src="https://github-readme-activity-graph.vercel.app/graph?username=ThankUYou&theme=github-compact&hide_border=true&area=true" />
 <!-- <br/> -->
 </p>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
